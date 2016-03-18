@@ -1,0 +1,21 @@
+Standard to work with APIs
+
+GET items
+GET items by ID
+POST to CREATE a new item
+UPDATE by ID
+DELETE by ID
+
+Creat Read Update Destroy
+
+## HTTP Verbs
+* GET a web request to GET something
+* POST a web request to SEND something to POST (like USPS)=>send something off!
+* PUT or PATCH a web request for updating things
+* DELETE web request that DESTROYS
+
+## HTTP Status Codes
+*404 not found
+*403 Forbidden
+*500 code or server broke...yikes!!!!! Your fault.
+*200 OK, everything is GOOD, everything LOADED! hooray!
